@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="refresh" content="1">
+<title>QMC300i快速换模系统</title>
+<style type="text/css">
+
+.ul1{margin:0;padding:0; list-style:none;}
+.li1{margin:0;padding:0; list-style:none;}
+.menu{width:1000px;height:48px;margin:0 auto; background:url(image/tab.jpg) repeat-x; }
+.menu ul{width:1000px;float:left;height:48px;display:inline;}
+.menu ul li{width:200px;height:48px; line-height:48px; text-align:center; float:left;display:inline; }
+.menu ul li a{width:200px;height:48px; float:left;text-decoration:none; color:#fff; font-size:18px;font-weight:bold;}
+.menu ul li a:hover{ background:#FF0000 repeat-x; }		
+
+.logo{}
+.bodystyle{  margin:0 auto; width:1000px; background:#d5d5d7;}
+ 
+ 
+</style>
+  
+</head>
+<body class="bodystyle">
+<div style="background-color:#FFFFFF; ">
+<div class="logo">
+ <img src="image/head.jpg" alt="青岛力磁电气股份有限公司" title="青岛力磁电气股份有限公司" style="margin:20px 0px 0px 0px;" />
+ 
+</div>
+ 
+<div class="menu">
+	<ul class="ul1">
+    	<li class="li1"><a href="index.html">主页</a></li>
+        <li class="li1"><a href="OperationInstruction.shtml">操作规程</a></li>
+        <li class="li1"><a href="QMC300iMagOperation.shtml">锁模操作</a></li>
+        <li class="li1"><a href="QMC300iDemagOperation.shtml">卸模操作</a></li>
+        <li class="li1"><a href="ContactUs.shtml">联系我们</a></li>
+    </ul>
+</div>
+ 
+
+<div style="font-size:20px;font-weight:bold;margin-top:30px;">
+卸模操作说明
+</div>
+<div style="background-color:#0066CC;color:#fff;margin-top:30px;  ">
+                <h3  >
+                  <span >卸模操作步骤：</span>
+                </h3>
+</div>
+<div style="margin-top:2px;">
+<ul>
+	<li>仔细观察系统是否有报警;</li>
+    <li>切换画面至【换模操作】，点击【卸模操作】输入管理员密码进入【卸模操作】;</li>
+    <li>点击【卸模操作】"准备卸模";</li>
+    <li>——注塑机设置为手动模式;</li>
+    <li>——开动动模板是模具合拢;</li>
+    <li>——安装模具锁扣，吊钩挂住模具;</li>
+    <li>点击【下一步】"模具卸模";</li>
+    <li>——点击动模板退磁;</li>
+    <li>点击【下一步】"模具卸模";</li>
+    <li>——FCS、UCS变红，即可开动动模板后退;</li>
+    <li>点击【下一步】"模板卸模";</li>
+    <li>——点击定模板退磁;</li>
+    <li>点击【下一步】"吊运模具";</li>
+    <li>——FCS、UCS变红，即可开动行车使模具从中心定位孔滑出;</li>
+    <li>模具从定模板侧中心孔滑出，吊出机器;</li>
+    <li>点击【下一步】"系统待机";</li>
+    <li>点击返回，【卸模操作】完成;</li>
+</ul>
+</div>
+</div>
+ <div align="center" style="margin-top:20px;margin-bottom:30px;">
+   	<p><img style="valign:center;" src="image/end.jpg">
+    </p>    
+ </div>
+</body>
+</html>
