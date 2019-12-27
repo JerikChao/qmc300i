@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>QMC300i���ٻ�ģϵͳ</title>
+<title>QMC300i快速换模系统</title>
 <style type="text/css">
 
 .ul1{margin:0;padding:0; list-style:none;}
@@ -22,71 +22,71 @@
 <body class="bodystyle">
 <div style="background-color:#FFFFFF;">
 <div class="logo">
- <img src="image/head.jpg" alt="�ൺ���ŵ����ɷ����޹�˾" title="�ൺ���ŵ����ɷ����޹�˾" style="margin:20px 0px 0px 0px;" />
+ <img src="image/head.jpg" alt="青岛力磁电气股份有限公司" title="青岛力磁电气股份有限公司" style="margin:20px 0px 0px 0px;" />
  
 </div>
  
 <div class="menu">
 	<ul class="ul1">
-    	<li class="li1"><a href="index.html">��ҳ</a></li>
-        <li class="li1"><a href="OperationInstruction.shtml">�������</a></li>
-        <li class="li1"><a href="QMC300iMagOperation.shtml">��ģ����</a></li>
-        <li class="li1"><a href="QMC300iDemagOperation.shtml">жģ����</a></li>
-        <li class="li1"><a href="ContactUs.shtml">��ϵ����</a></li>
+    	<li class="li1"><a href="index.html">主页</a></li>
+        <li class="li1"><a href="OperationInstruction.shtml">操作规程</a></li>
+        <li class="li1"><a href="QMC300iMagOperation.shtml">锁模操作</a></li>
+        <li class="li1"><a href="QMC300iDemagOperation.shtml">卸模操作</a></li>
+        <li class="li1"><a href="ContactUs.shtml">联系我们</a></li>
     </ul>
 </div>
  
 <div style="font-size:20px;font-weight:bold;margin-top:30px;">
-��ȫ���� 
+安全守则 
 </div>
 <div style="width:1000px; background-color:#0066CC;color:#fff;margin-top:30px;  ">
                 <h3>
-                  <span style="text-align:center;">����������²�Ҫ��װģ��</span>
+                  <span style="text-align:center;">在下列情况下不要吊装模具</span>
                 </h3>
 </div>
 
 <div style="margin-top:2px;">
 <ul>
-	<li>�����Ķ�λ�����Ұ�ģ�����������н�����1/5;</li>
-    <li>ģ�ߺʹ���ģ���ϵı�����֬û������ɾ�;</li>
-    <li>ģ�߸��ǵĴ�������򲻵��н�����Ҫ�󣨼�4.3�½ڣ�;</li>
-    <li>ģ�߱�������������а�͹��;</li>
-    <li>ģ�߿����ӽ���������λ���ǿ�ǻ;</li>
-    <li>ģ���Ƿǵ��Ų��ϣ��Ӹ��Ȱ壩;</li>
-    <li>ģ�ߵ�����λ���Ƿ����Ե�;</li>
+	<li>无中心定位环，且半模的重量超过夹紧力的1/5;</li>
+    <li>模具和磁力模板上的保护油脂没有清除干净;</li>
+    <li>模具覆盖的磁性面积打不到夹紧力的要求（见4.3章节）;</li>
+    <li>模具背板表面弯曲，有凹凸面;</li>
+    <li>模具靠近接近传感器的位置是空腔;</li>
+    <li>模具是非导磁材料（加隔热板）;</li>
+    <li>模具的中心位置是非线性的;</li>
 </ul>
 </div>
 
 <div style="width:1000px; background-color:#0066CC;color:#fff; ">
                 <h3>
-                  <span style="text-align:center;">����������²�Ҫ��������ģ��ϵͳ</span>
+                  <span style="text-align:center;">在下列情况下不要启动磁力模板系统</span>
                 </h3>
 </div>
 
 <div style="margin-top:2px;">
 <ul>
-	<li>ϵͳ�¶ȸ����ֲ��ڹ涨���¶�;</li>
-    <li>��ģ��û�а��մ��Լн������е��������ֲ�4.3�½ڣ�;</li>
-    <li>ϵͳ�б���;</li>
-    <li>MAGָʾ�������;</li>
-    <li>PROXIMITYָʾ�������;</li>
+	<li>系统温度高于手册内规定的温度;</li>
+    <li>开模力没有按照磁性夹紧力进行调整（见手册4.3章节）;</li>
+    <li>系统有报警;</li>
+    <li>MAG指示灯是灭的;</li>
+    <li>PROXIMITY指示灯是灭的;</li>
 </ul>
 </div>
 
 <div style="width:1000px; background-color:#0066CC;color:#fff; ">
                 <h3>
-                  <span style="text-align:center;">����ע������</span>
+                  <span style="text-align:center;">其他注意事项</span>
                 </h3>
 </div>
 
 <div style="margin-top:2px;">
 <ul>
-	<li>��һ����ͣ������ִ�н����������򣨼��ֲ�4.5�½ڣ�;</li>
-    <li>���ģ��û�нӴ��ã���Ҫִ�г�Ŷ���;</li>
-    <li>��һ��Դ��ִ�г��/�˴�ʱ���ֶϿ�����ʱִ�����һ������;</li>
-    <li>��ִ�г��/�˴�ʱ����Ҫ�����κ�ѡ���;</li>
-    <li>��Ҫײ���κδ���ģ��;</li>
-    <li>��Ҫʹ������ʴ�Ե��ܼ����ô���ģ����棨�п��ܻḯʴ����ģ��ͻ�����֬��;</li>
+	<li>万一机器停机，请执行紧急处理程序（见手册4.5章节）;</li>
+    <li>如果模具没有接触好，不要执行充磁动作;</li>
+    <li>万一电源在执行充磁/退磁时出现断开，总时执行最后一步操作;</li>
+    <li>在执行充磁/退磁时，不要按动任何选择键;</li>
+    <li>不要撞击任何磁力模板;</li>
+    <li>不要使用有侵蚀性的溶剂擦拭磁力模板表面（有可能会腐蚀磁力模板和环氧树脂）;</li>
 </ul>
 </div>
 
